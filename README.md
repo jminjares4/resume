@@ -36,7 +36,7 @@ May – Aug. 2021
 - Learned version control software (Git) to update and keep track of software changes
 
 **Aerospace Center (cSETR)** @ El Paso, TX <br>
-**Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Feb. 2021 – May 2021
+**Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Feb. – May 2021
 - Delivered a custom electrical power system (EPS) to feed up to 3000 mA
 - Added 1A lithium battery charger with battery protection to maximize battery duration
 - Translated electric circuit into custom 2-layer printed circuit board (PCB) in KiCad
