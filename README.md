@@ -14,7 +14,7 @@ El Paso, TX | (915) 269-2065 | jminjares4@miners.utep.edu | LinkedIn: [jesusminj
 
 ## **TECHNICAL EXPERIENCE**
 **Aerospace Center (cSETR)** @ El Paso, TX<br>
-**Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Aug. 2021 – May 2022
+**Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022
 
 - Developed a 3U CubeSat with a multidisciplinary team of 5 members, leveraging strong collaboration
   and multi-tasking to meet deadlines 
@@ -45,7 +45,7 @@ May – Aug. 2021
 
 ## **TECHNICAL PROJECTS**
 **Aerospace Center (cSETR)** @ El Paso, TX <br>
-**Robotic Arm 3U CubeSat** :mechanical_arm: &nbsp;&nbsp;&nbsp; Aug. 2021 – May 2022
+**Robotic Arm 3U CubeSat** :mechanical_arm: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022
 - Designed 3U CubeSat payload firmware in C for ARM Cortex M microcontroller
 - Deployed custom Hardware Abstraction Layer (HAL) API to reduce software development of 6 teams by 30%
 - Populated custom 2-layer print circuit boards (PCB) and ensure functionality with oscilloscope and DMM
