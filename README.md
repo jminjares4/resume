@@ -13,6 +13,14 @@ El Paso, TX | (915) 269-2065 | jminjares4@miners.utep.edu | LinkedIn: [jesusminj
 *El Paso Community College (EPCC)* &nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp; GPA: 3.86/4.0
 
 ## **TECHNICAL EXPERIENCE**
+**Sandia National Laboratories (SNL)** @ Albuquerque, NM <br>
+**Embedded Software Engineer** :watermelon: &nbsp;&nbsp;&nbsp; Nov. 2022 – Present
+
+- Deployed over-the-air (OTA) firmware update for legacy system
+- Added digital signal processing (DSP) algorithm (FIR Filter) to ADC sensor data
+- Introduced pipeline (CI/CD) to automated build for embedded application
+- Initiated firmware compatibility to add new features to previous boards
+
 **Aerospace Center (cSETR)** @ El Paso, TX<br>
 **Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022
 
@@ -35,15 +43,16 @@ May – Aug. 2021
 - Implemented algorithms for the IEEE802.11n protocol using C++ and OOP methodologies
 - Learned version control software (Git) to update and keep track of software changes
 
-**Aerospace Center (cSETR)** @ El Paso, TX <br>
+<!-- **Aerospace Center (cSETR)** @ El Paso, TX <br>
 **Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Feb. – May 2021
 - Delivered a custom electrical power system (EPS) to feed up to 3000 mA
 - Added 1A lithium battery charger with battery protection to maximize battery duration
 - Translated electric circuit into custom 2-layer printed circuit board (PCB) in KiCad
 - Improved Helmholtz coil controller by adding multiple drivers (MOSFET and h-bridge) to control magnetic 
-  field magnitude and direction
+  field magnitude and direction -->
 
 ## **TECHNICAL PROJECTS**
+
 **Aerospace Center (cSETR)** @ El Paso, TX <br>
 **Robotic Arm 3U CubeSat** :mechanical_arm: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022
 - Designed 3U CubeSat payload firmware in C for ARM Cortex M microcontroller
