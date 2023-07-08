@@ -48,7 +48,7 @@ May – Aug. 2021
 **Robotic Arm 3U CubeSat** :mechanical_arm: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022
 - Designed 3U CubeSat payload firmware in C for ARM Cortex M microcontroller
 - Deployed custom Hardware Abstraction Layer (HAL) API to reduce software development of 6 teams by 30%
-- Populated custom 2-layer print circuit boards (PCB) and ensure functionality with oscilloscope and DMM
+- Populated custom 2-layer printed circuit boards (PCB) and ensured functionality with oscilloscope and DMM
 - Implemented payload communication protocols (I2C, SPI, UART) to communicate between CubeSats payloads
 
 **UTEP** @ El Paso, TX <br>
