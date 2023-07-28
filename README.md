@@ -15,11 +15,12 @@ El Paso, TX | (915) 269-2065 | jminjares4@miners.utep.edu | LinkedIn: [jesusminj
 ## **TECHNICAL EXPERIENCE**
 **Sandia National Laboratories (SNL)** @ Albuquerque, NM <br>
 **Embedded Software Engineer** :watermelon: &nbsp;&nbsp;&nbsp; Nov. 2022 – Present
+- Accomplished OTA firmware updates for legacy system, improving functionality and user experience
+- Implemented FIR filter with decimation for precise analog sensor data processing
+- Established efficient CI/CD pipeline for embedded system deployment
+- Enabled firmware compatibility, integrating new features onto previous boards
+- Optimized makefile for reliable, risk-free embedded software development
 
-- Deployed over-the-air (OTA) firmware update for legacy system
-- Added digital signal processing (DSP) algorithm (FIR Filter) to ADC sensor data
-- Introduced pipeline (CI/CD) to automated build for embedded application
-- Initiated firmware compatibility to add new features to previous boards
 
 **Aerospace Center (cSETR)** @ El Paso, TX<br>
 **Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022
