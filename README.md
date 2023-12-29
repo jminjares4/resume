@@ -15,11 +15,13 @@ El Paso, TX | (915) 269-2065 | jminjares4@miners.utep.edu | LinkedIn: [jesusminj
 ## **TECHNICAL EXPERIENCE**
 **Sandia National Laboratories (SNL)** @ Albuquerque, NM <br>
 **Embedded Software Engineer** :watermelon: &nbsp;&nbsp;&nbsp; Nov. 2022 – Present
-- Accomplished OTA firmware updates for legacy system, improving functionality and user experience
-- Implemented FIR filter with decimation for precise analog sensor data processing
-- Established efficient CI/CD pipeline for embedded system deployment
-- Enabled firmware compatibility, integrating new features onto previous boards
-- Optimized makefile for reliable, risk-free embedded software development
+-	Successfully executed Over-the-Air (OTA) firmware updates for a legacy system, significantly improving functionality and ensuring a stable deployment 
+-	Implemented efficient CI/CD pipelines for streamlined deployment of embedded systems
+-	Enabled firmware compatibility by integrating new features onto existing boards
+-	Updated Makefile for dependable and risk-free embedded software development
+-	Enhanced embedded software with 14 new features, implementing Git for version control, issue tracking, and managing over 30 merge requests
+-	Acquired proficiency in SQLite3 and improved database performance by refactoring C/C++ software architecture
+
 
 
 **Aerospace Center (cSETR)** @ El Paso, TX<br>
@@ -75,3 +77,6 @@ May – Aug. 2021
 - Proficient in Python, KiCad, EasyEDA, Eagle, Git, Oscilloscope, DMM, and Doxygen
 - Basic knowledge of Rust, Docker, and Verilog 
 - Familiar with Java, Multisim, and Assembly Language
+
+## **Resume Deployment**
+[![resume page](https://img.shields.io/badge/active-34c855.svg?style=flat&logo=github&logoColor=949da5&label=resume%20page&labelColor=3f4851)](https://jminjares4.github.io/resume)
