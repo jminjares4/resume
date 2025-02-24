@@ -14,13 +14,14 @@ El Paso, TX | (915) 269-2065 | jesusminjaresjr@gmail.com | LinkedIn: [jesusminja
 
 ## **TECHNICAL EXPERIENCE**
 **Sandia National Laboratories (SNL)** @ Albuquerque, NM <br>
-**Embedded Software Engineer** :watermelon: &nbsp;&nbsp;&nbsp; Nov. 2022 – Present  
-- Developed an FPGA-based IMU emulator in MATLAB/Simulink, implemented a queue to handle mismatched data rates, designed custom blocks for 2400 Hz output, and generated an SDLC-compliant bitstream  
-- Optimized CI/CD pipelines to streamline embedded system deployments, reducing release cycles and boosting efficiency  
-- Integrated a JSON parser using the cJSON API to dynamically configure sensor and network settings on ESP32 at boot  
-- Executed OTA firmware updates for legacy systems, boosting functionality and ensuring stable deployments  
-- Added new firmware features to existing boards, ensuring backward compatibility and extending hardware lifespan  
-- Refactored Makefiles to enhance reliability and minimize risks in embedded software development and builds  
+**Embedded Software Engineer** :watermelon: &nbsp;&nbsp;&nbsp; Nov. 2022 – Present
+- Designed and implemented a Python JSON parser to generate C++ headers for HWIL device configuration, optimizing automation and deployment  
+- Developed an FPGA-based IMU emulator in MATLAB/Simulink with custom 2400 Hz blocks and an SDLC-compliant bitstream 
+- Optimized CI/CD pipelines to accelerate deployments, reducing release cycles and boosting efficiency
+- Integrated a JSON parser using the cJSON API to dynamically configure sensor and network settings on ESP32 at boot
+- Executed OTA firmware updates for legacy systems, improving functionality and ensuring stable deployments
+- Added new firmware features to existing boards, ensuring backward compatibility and extending hardware lifespan
+- Refactored Makefiles to enhance reliability and mitigate risks in embedded software development and builds
 
 **Aerospace Center (cSETR)** @ El Paso, TX <br>
 **Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022  
