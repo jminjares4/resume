@@ -15,13 +15,12 @@ El Paso, TX | (915) 269-2065 | jesusminjaresjr@gmail.com | LinkedIn: [jesusminja
 ## **TECHNICAL EXPERIENCE**
 **Sandia National Laboratories (SNL)** @ Albuquerque, NM <br>
 **Embedded Software Engineer** :watermelon: &nbsp;&nbsp;&nbsp; Nov. 2022 – Present
-- Designed and implemented a Python JSON parser to generate C++ headers for HWIL device configuration, optimizing automation and deployment  
-- Developed an FPGA-based IMU emulator in MATLAB/Simulink with custom 2400 Hz blocks and an SDLC-compliant bitstream 
-- Optimized CI/CD pipelines to accelerate deployments, reducing release cycles and boosting efficiency
-- Integrated a JSON parser using the cJSON API to dynamically configure sensor and network settings on ESP32 at boot
-- Executed OTA firmware updates for legacy systems, improving functionality and ensuring stable deployments
-- Added new firmware features to existing boards, ensuring backward compatibility and extending hardware lifespan
-- Refactored Makefiles to enhance reliability and mitigate risks in embedded software development and builds
+- Upgraded NI 6509 driver with custom I²C bit-banging in C++ to integrate I²C device control into HWIL systems
+- Led component test development to validate I/O behavior and ensure system functionality across multiple custom HWIL chassis
+- Developed an FPGA-based IMU emulator in MATLAB/Simulink with custom 2400 Hz blocks and an SDLC-compliant bitstream
+- Deployed GitLab Runner-based CI/CD to automate and validate embedded software releases
+- Integrated dynamic JSON-based configuration for ESP32 using the cJSON API to manage sensor and network settings
+- Enhanced firmware with new features for existing boards, maintaining backward compatibility to prolong hardware lifespan
 
 **Aerospace Center (cSETR)** @ El Paso, TX <br>
 **Graduate Research Assistant** :rocket: &nbsp;&nbsp;&nbsp; Aug. 2021 – Jun. 2022  
