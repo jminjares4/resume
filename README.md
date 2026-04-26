@@ -1,12 +1,12 @@
 # Jesus Minjares ⚡
 
-Albuquerque, NM | (915) 269-2065 | [jesusminjaresjr@gmail.com](mailto:jesusminjaresjr@gmail.com) | LinkedIn: [jesusminjares](https://www.linkedin.com/in/jesusminjares/) | GitHub: [jminjares4](https://github.com/jminjares4) | **Active DOE Q Clearance**
+Albuquerque, NM | (915) 269-2065 | [jesusminjaresjr@gmail.com](mailto:jesusminjaresjr@gmail.com) | LinkedIn: [jesusminjares](https://www.linkedin.com/in/jesusminjares/) | GitHub: [jminjares4](https://github.com/jminjares4)
 
 ---
 
 ## **Professional Summary**
 
-Embedded Software Engineer with active DOE Q Clearance and 3+ years at Sandia National Laboratories developing real-time embedded systems, HWIL infrastructure, and avionics interfaces for mission-critical applications. Skilled in low-level C/C++ development, FPGA-based sensor emulation, serial and I²C interface development, hardware bring-up, and system integration across lab and test environments. Currently pursuing an M.S. in Artificial Intelligence at UT Austin (4.0 GPA).
+Embedded Software Engineer with 3+ years at Sandia National Laboratories developing real-time embedded systems, HWIL infrastructure, and avionics interfaces for mission-critical applications. Skilled in low-level C/C++ development, FPGA-based sensor emulation, serial and I²C interface development, hardware bring-up, and system integration across lab and test environments. Currently pursuing an M.S. in Artificial Intelligence at UT Austin (4.0 GPA).
 
 ---
 
